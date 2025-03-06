@@ -1,0 +1,9 @@
+a=["Malathi","Banana","Grapes","Fruits"]
+a.sort(key=len)
+n=[10,1,3,4,5,6,7]
+n1=[3,2,5,11,3,4,6]
+n1.sort(reverse=True)
+n.sort()
+print(a)
+print(n)
+print(n1)
